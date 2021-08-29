@@ -6,7 +6,7 @@ This repository contains:
 ## Speaker-Embedding Generator
 The speaker embedding generator is a module that can be used in combination with AutoVC for converting speech towards non-existing ficticious voices. Moreover, it is possible to perform arbitrarily alter the identity characteristics of a speaker, or to combine several speakers voices to make a new one.
 
-For training and testing, checkout the VAEspeaker.ipynb in this repository.
+For training and testing, checkout the speakersVAE.ipynb in this repository.
 
 ## VCEvalKit
 To use VCEvalKit, the module must be downloaded and all dependencies must be installed on the system. This can be done by executing the following commands one after another:
