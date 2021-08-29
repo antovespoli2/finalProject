@@ -32,7 +32,8 @@ Once the system has been installed, it can be used by running the following comm
 
     -o <file>		To generate a report with a given filename
 
-    -m <metric>		To compute a single evaluation metri, options are “content”, “style”, or “neural_mos”
+    -m <metric>		To compute a single evaluation metri, options are “content”, “style”, 
+                        or “neural_mos”
 
     -v			To operate in verbose mode
 ```
