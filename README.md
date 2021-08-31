@@ -3,7 +3,7 @@ This repository contains:
 - Training and testing code for a VAE-based speaker-embedding generator compatible with AutoVC
 - VCEvalKit: a non-intrusive voice conversion evaluation toolkit
 
-## Speaker-Embedding Generator
+## VAE-based Speaker-Embedding Generator
 The speaker embedding generator is a module that can be used in combination with AutoVC for converting speech towards non-existing ficticious voices. Moreover, it is possible to perform arbitrarily alter the identity characteristics of a speaker, or to combine several speakers voices to make a new one.
 
 For training and testing, checkout the speakersVAE.ipynb in this repository.
